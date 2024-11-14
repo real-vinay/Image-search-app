@@ -35,10 +35,10 @@ To get a local copy up and running, follow these simple steps:
 ## Screenshot
 
 ![Image-serach-app-screenshot(1)](https://github.com/user-attachments/assets/c00a1168-66a7-4328-9797-6d6a40216d29)
-[Image-serach-app-screenshot(2)](https://github.com/user-attachments/assets/1b348426-8aa4-40e6-bd45-ab8a4317c070)
+![Image-serach-app-screenshot(2)](https://github.com/user-attachments/assets/1b348426-8aa4-40e6-bd45-ab8a4317c070)
 
 
-## Things I Learned!
+## Things I Learned
 
 
 - How to use the Unsplash API to fetch images.
